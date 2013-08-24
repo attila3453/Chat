@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1377361405 source:c:\users\attila\documents\github\chat\main.cpp
+	<iostream>
+	<SFML/Network.hpp>
+
